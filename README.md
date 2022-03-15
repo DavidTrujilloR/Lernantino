@@ -6,4 +6,4 @@ In this project we had to create a presentation page in HTML and CSS with the kn
 
 ## Link
 
-[Page link]()
+[Page link](https://davidtrujillor.github.io/Lernantino/)
